@@ -17,7 +17,7 @@ import cavarage_mdp as mdp
 import cavarage_pomdp as pomdp
 
 
-RANDOM_SEED = 7
+RANDOM_SEED = None
 TARGET_FREE_COVERAGE = 0.995
 MAP_SCALE = 0.5
 GRAPH_HISTORY_LIMIT = 2000

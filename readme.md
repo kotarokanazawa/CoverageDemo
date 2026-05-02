@@ -1,4 +1,6 @@
-# CavarageDemo
+# CoverageDemo
+
+![CoverageDemo figure](Figure.png)
 
 This demo compares five coverage / exploration strategies on the same random grid map.
 

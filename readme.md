@@ -261,7 +261,7 @@ Characteristics:
 Run:
 
 ```bash
-/home/kotaro/.pyenv/versions/3.10.15/bin/python /home/kotaro/imax_ws/src/crawler_controller/CavarageDemo/python/cavarage_compare.py
+python3 python/cavarage_compare.py
 ```
 
 The comparison script uses the same random terrain and initial pose for all methods.  It plots:
